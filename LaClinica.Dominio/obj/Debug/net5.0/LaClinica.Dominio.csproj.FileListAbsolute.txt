@@ -1,0 +1,12 @@
+C:\Users\Agustin\source\repos\LaClinica\LaClinica.Dominio\bin\Debug\net5.0\LaClinica.Dominio.deps.json
+C:\Users\Agustin\source\repos\LaClinica\LaClinica.Dominio\bin\Debug\net5.0\LaClinica.Dominio.dll
+C:\Users\Agustin\source\repos\LaClinica\LaClinica.Dominio\bin\Debug\net5.0\LaClinica.Dominio.pdb
+C:\Users\Agustin\source\repos\LaClinica\LaClinica.Dominio\obj\Debug\net5.0\LaClinica.Dominio.csproj.AssemblyReference.cache
+C:\Users\Agustin\source\repos\LaClinica\LaClinica.Dominio\obj\Debug\net5.0\LaClinica.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agustin\source\repos\LaClinica\LaClinica.Dominio\obj\Debug\net5.0\LaClinica.Dominio.AssemblyInfoInputs.cache
+C:\Users\Agustin\source\repos\LaClinica\LaClinica.Dominio\obj\Debug\net5.0\LaClinica.Dominio.AssemblyInfo.cs
+C:\Users\Agustin\source\repos\LaClinica\LaClinica.Dominio\obj\Debug\net5.0\LaClinica.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\LaClinica\LaClinica.Dominio\obj\Debug\net5.0\LaClinica.Dominio.dll
+C:\Users\Agustin\source\repos\LaClinica\LaClinica.Dominio\obj\Debug\net5.0\refint\LaClinica.Dominio.dll
+C:\Users\Agustin\source\repos\LaClinica\LaClinica.Dominio\obj\Debug\net5.0\LaClinica.Dominio.pdb
+C:\Users\Agustin\source\repos\LaClinica\LaClinica.Dominio\obj\Debug\net5.0\ref\LaClinica.Dominio.dll
