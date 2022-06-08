@@ -1,4 +1,6 @@
 using LaClinica.Datos;
+using LaClinica.Datos.Repository;
+using LaClinica.Dominio.Contratos;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -26,8 +28,10 @@ namespace LaClinica.Presentacion
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-
             services.AddDbContext<LaClinicaContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+        
+            services.AddScoped<IRepositorioSintomas, RepositorioSintomas>();
+            services.AddScoped<IRepositorioLlamadas, RepositorioLlamadas>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -73,3 +73,5 @@ C:\Users\Agustin\source\repos\LaClinica\LaClinica.Presentacion\obj\Debug\net5.0\
 C:\Users\Agustin\source\repos\LaClinica\LaClinica.Presentacion\obj\Debug\net5.0\LaClinica.Presentacion.pdb
 C:\Users\Agustin\source\repos\LaClinica\LaClinica.Presentacion\obj\Debug\net5.0\LaClinica.Presentacion.genruntimeconfig.cache
 C:\Users\Agustin\source\repos\LaClinica\LaClinica.Presentacion\obj\Debug\net5.0\ref\LaClinica.Presentacion.dll
+C:\Users\Agustin\source\repos\LaClinica\LaClinica.Presentacion\obj\Debug\net5.0\Razor\Views\Llamadas\Create.cshtml.g.cs
+C:\Users\Agustin\source\repos\LaClinica\LaClinica.Presentacion\obj\Debug\net5.0\Razor\Views\Llamadas\Index.cshtml.g.cs

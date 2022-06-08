@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LaClinica.Dominio
+namespace LaClinica.Presentacion.Models
 {
     public class LlamadaViewModel
     {
@@ -32,21 +32,18 @@ namespace LaClinica.Dominio
         public string Apellido { get; set; }
         [Required(ErrorMessage = "Dato obligatorio")]
         public int Telefono { get; set; }
+        [Required(ErrorMessage = "Dato obligatorio")]
+        public string Domicilio { get; set; }
+        [DataType(DataType.Date)]
+        public DateTime FechaNacimiento { get; set; }
 
+        [Required(ErrorMessage = "Dato obligatorio")]
         public EstadoLlamada Estado { get; set; }
 
-
-
-
-
-        //public ICollection<Sintoma> Sintomas { get; set; }
-
         public ICollection<LlamadaSintoma> Sintomas { get; set; }
-
-        public int RecursoId { get; set; }
+        [Required(ErrorMessage = "Dato obligatorio")]
         public Recurso Recurso { get; set; }
-
-        public int OperadorId { get; set; }
+        [Required(ErrorMessage = "Dato obligatorio")]
         public Operador Operador { get; set; }
 
     }
